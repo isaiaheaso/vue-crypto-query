@@ -1,0 +1,17 @@
+.top-buffer {
+    margin-top:20px;
+}
+
+.popular-center {
+    text-align: center;
+}
+
+.popular-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.pos { color: green; }
+.neg { color: red; }
